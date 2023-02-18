@@ -273,7 +273,7 @@ flag=true;
 if(flag==false)
 System.out.println("Anagram");
 else
-System.out.println("NOT Anagam");
+System.out.println("NOT Anagram");
 }
 }
 
@@ -287,12 +287,12 @@ Anagram
 Enter strings to be checked:
 Hyder
 java
-NOT Anagam
+NOT Anagram
 
 Enter strings to be checked:
 toshu
 tin
-NOT Anagam
+NOT Anagram
 
 Enter strings to be checked:
 School Master
